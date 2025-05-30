@@ -4,7 +4,7 @@ This project demonstrates how to convert a traditional analog electricity meter 
 
 ---
 
-## 📘 Description
+## 📘 Description   
 
 The smart meter system detects LED blinks or dial movement on analog meters using an LDR sensor. These readings are then processed and transmitted by the ESP8266 microcontroller, allowing users to monitor their energy consumption digitally.
 
