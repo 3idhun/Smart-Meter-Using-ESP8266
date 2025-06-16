@@ -11,7 +11,7 @@ The smart meter system detects LED blinks or dial movement on analog meters usin
 ---
 
 ## 🔧 Hardware Used 
-
+        
 - ESP8266 (NodeMCU or similar)
 - LDR (Light Dependent Resistor)
 - Resistors (e.g., 10kΩ)
